@@ -1,5 +1,5 @@
 [
   { "start": 0, "end": 5000, "text": "Hello world" },
-  { "start": 5000, "end": 10000, "text": "This is a demo" }
+  { "start": 5000, "end": 10000, "text": "This is a demo" },
+  { "start": 10000, "end": 15000, "text": "Music visualizer prototype" }
 ]
-
